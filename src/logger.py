@@ -1,6 +1,5 @@
 import logging
 import os
-import sys
 from datetime import datetime
 
 # Create a log file name based on the current datetime
